@@ -1,0 +1,20 @@
+{
+    "key_list":[
+        {"hotkey":"alt+0","text":"/shout hello"},
+        {"hotkey":"alt+1","text":"/achat gg"},
+        {"hotkey":"alt+2","text":"inc"},
+        {"hotkey":"alt+3","text":"thx"},
+        {"hotkey":"alt+4","text":"def pls"},
+        {"hotkey":"alt+5","text":"anyone build?"},
+        {"hotkey":"alt+6","text":"i need iron plssss"},
+        {"hotkey":"alt+7","text":"we need diams"},
+        {"hotkey":"alt+8","text":"who build this f k road"},
+        {"hotkey":"alt+9","text":"just wait a minute pls,i need ten diams to finsish a challenge"},
+        {"hotkey":"n+1","text":"/play bedwars_eight_one"},
+        {"hotkey":"n+2","text":"/play bedwars_eight_two"},
+        {"hotkey":"n+3","text":"/play bedwars_four_four"},
+        {"hotkey":"n+4","text":"/play bedwars_two_four"},
+        {"hotkey":"ctrl+l","text":"/lobby"},
+        {"hotkey":"ctrl+j","text":"/rejoin"}
+    ]
+}
