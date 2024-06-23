@@ -25,6 +25,7 @@ class key():
             keyboard.press_and_release('enter')
             time.sleep(0.1)
             keyboard.press_and_release('q')
+            keyboard.press_and_release('alt')
             MainWindow.refresh_data(self.text_li[i])
 
     def hotkey(self):

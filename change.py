@@ -3,7 +3,7 @@ import keyboard
 import time
 def t():
     mouse = Controller()
-    for j in range(100):
+    for j in range(50):
         for i in range(6):
             mouse.click(Button.left)
             time.sleep(0.1)
